@@ -14,4 +14,19 @@ class Solution:
         # Fila de prioridade (max-heap usando probabilidades negativas)
         pq = [(-1.0, start)]  # (-probabilidade, nó)
 
+        while pq:
+            prob, cur = heapq.heappop(pq)
+            prob = -prob  # Reverter para positivo
+            
+            # Se chegarmos ao destino, retornamos a probabilidade máxima
+            if cur == end:
+                return prob
+            
+            # Expandir vizinhos do nó atual
+            for nei, edgeProb in adj[cur]:
+                new_prob = prob * edgeProb
+                if new_prob > max_prob[nei]:  # Apenas atualizar se for uma probabilidade maior
+                    max_prob[nei] = new_prob
+                    heapq.heappush(pq, (-new_prob, nei))  # Adicionar o vizinho com a nova probabilidade
+
         return 0
