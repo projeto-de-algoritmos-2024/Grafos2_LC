@@ -1,3 +1,6 @@
+import heapq
+import collections
+
 class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start: int, end: int) -> float:
         # Criação do grafo com lista de adjacência
