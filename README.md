@@ -89,7 +89,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="" target="_blank">Média 1</a></td>
+            <td><a href="https://youtu.be/3qSWwaWD9Zc" target="_blank">Média 1</a></td>
         </tr>
         <tr>
             <td><a href="" target="_blank">Média 2</a></td>
@@ -98,7 +98,7 @@
             <td><a href="" target="_blank">Difícil 1</a></td>
         </tr>
         <tr>
-            <td><a href="" target="_blank">Difícil 2</a></td>
+            <td><a href="https://youtu.be/BO8LCsNNb-M" target="_blank">Difícil 2</a></td>
         </tr>
     </tbody>
 </table>
