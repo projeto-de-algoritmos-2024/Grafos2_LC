@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/
 
-# Nível da questão:  <span style="color: yellow;">Difícil</span>
+# Nível da questão:  <span style="color: red;">Difícil</span>
 
 ## Resultados do juiz eletrônico
 ![](/Grafos2/Assets/Questao1dificil_result.png)
