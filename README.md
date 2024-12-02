@@ -21,12 +21,12 @@
             <td><a href="https://leetcode.com/problems/path-with-maximum-probability/description/" target="_blank">1514. Path with Maximum Probability</td>
             <td>Médio</td>
         <tr>
-            <td><a href="" target="_blank"></td>
+            <td><a href="https://leetcode.com/problems/network-delay-time/description/" target="_blank"> 743. Network Delay Time</td>
             <td>Médio</td>
         </tr>
         </tr>
         <tr>
-            <td><a href="" target="_blank"></td>
+            <td><a href="https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/" target="_blank">847. Shortest Path Visiting All Nodes</td>
             <td>Difícil</td>
         </tr>
         <tr>
@@ -92,10 +92,10 @@
             <td><a href="https://youtu.be/3qSWwaWD9Zc" target="_blank">Média 1</a></td>
         </tr>
         <tr>
-            <td><a href="" target="_blank">Média 2</a></td>
+            <td><a href="https://www.youtube.com/watch?v=XziVTa6wF0I" target="_blank">Média 2</a></td>
         </tr>
         <tr>
-            <td><a href="" target="_blank">Difícil 1</a></td>
+            <td><a href="https://www.youtube.com/watch?v=2Ph2UtRyw3Y" target="_blank">Difícil 1</a></td>
         </tr>
         <tr>
             <td><a href="https://youtu.be/BO8LCsNNb-M" target="_blank">Difícil 2</a></td>
