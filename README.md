@@ -18,19 +18,19 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="" target="_blank"></td>
+            <td><a href="https://leetcode.com/problems/path-with-maximum-probability/description/" target="_blank">1514. Path with Maximum Probability</td>
             <td>Médio</td>
-        </tr>
         <tr>
             <td><a href="" target="_blank"></td>
             <td>Médio</td>
+        </tr>
         </tr>
         <tr>
             <td><a href="" target="_blank"></td>
             <td>Difícil</td>
         </tr>
         <tr>
-            <td><a href="" target="_blank"></td>
+            <td><a href="https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/" target="_blank">882. Reachable Nodes In Subdivided Graph</td>
             <td>Difícil</td>
         </tr>
     </tbody>
