@@ -1,3 +1,9 @@
+from collections import defaultdict
+from heapq import heappop, heappush
+import sys
+from typing import List
+
+
 class Solution:
     def reachableNodes(self, edges: List[List[int]], maxMoves: int, n: int) -> int:
         graph = defaultdict(list)
